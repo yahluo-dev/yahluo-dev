@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi!
+
+My Name is Iaroslav and I'm a student of Computer Science in Brno.
+
+My interests lie particularly in the fields of cybersecurity, computer networks and machine learning.
+
+I'm currently in my last year of bachelor's and working on my thesis in the field of parsing and compiler construction.
+
+Aside from IT, I am an avid language learner and an active student inside and outside the university.
 
 <!--
 **buttercat3323/buttercat3323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
