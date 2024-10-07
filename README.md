@@ -9,16 +9,16 @@ I'm currently in my last year of bachelor's and working on my thesis.
 Aside from IT, I am an avid language learner and an active student inside and outside the university.
 
 
-```mermaid
+<!-- ```mermaid
 %%{init: { "class": { "height": 300, "width": 300 } } }%%
 classDiagram
   class Iaro {
     +float energy
   }
 
-  Iaro -- Cybersecurity : <<is interested in>>
+  Iaro -- Cybersecurity : << is interested in >>
 
-```
+```-->
 
 
 <!--
