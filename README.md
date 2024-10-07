@@ -8,6 +8,19 @@ I'm currently in my last year of bachelor's and working on my thesis.
 
 Aside from IT, I am an avid language learner and an active student inside and outside the university.
 
+
+```mermaid
+%%{init: { "class": { "height": 300, "width": 300 } } }%%
+classDiagram
+  class Iaro {
+    +float energy
+  }
+
+  Iaro -- Cybersecurity : <<is interested in>>
+
+```
+
+
 <!--
 **buttercat3323/buttercat3323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
