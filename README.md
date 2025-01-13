@@ -1,14 +1,11 @@
-## Hi!
+## Hello!
 
-My Name is Iaroslav and I'm a student of Computer Science in Brno in my last year.
+My Name is Iaroslav and I am a student of Computer Science in Brno in my last year.
 
 ### About me
 
-
-
 - 🔭 I’m currently working 
-  - on school projects and my thesis.
-  - on a game I started as part of an Erasmus exchange programme.
+  - On my thesis
 <!-- - 🌱 I’m currently learning
   - PyTorch -->
 
@@ -18,4 +15,4 @@ My Name is Iaroslav and I'm a student of Computer Science in Brno in my last yea
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ... -->
 
-Hobbies: Game development, Chinese, recently Tabletop RPGs
+Hobbies: Game development, Chinese, Music
