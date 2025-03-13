@@ -3,10 +3,10 @@
 My Name is Iaroslav and I am a student of Computer Science in Brno in my last year.
 
 ### About me
-
+<!--
 - 🔭 I’m currently working 
   - On my thesis
-<!-- - 🌱 I’m currently learning
+- 🌱 I’m currently learning
   - PyTorch -->
 
 <!-- - 👯 I’m looking to collaborate on ...
@@ -15,4 +15,4 @@ My Name is Iaroslav and I am a student of Computer Science in Brno in my last ye
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ... -->
 
-Hobbies: Game development, Chinese, Music
+<!-- Hobbies: Game development, Chinese, Music -->
